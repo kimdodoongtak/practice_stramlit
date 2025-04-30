@@ -27,25 +27,25 @@ initial_photo =[
     {
         "name":"케이크",
         "types":["음식🍰"],
-        "image_url":"https://i.namu.wiki/i/htTi1XgAj12M-217ZlFTvT2xfXNk4v5FDWstL-C24oiy3ZbZOEGIelCJPHi2hvoEMAHmyCBhsfW__h4hAYj_gLclTg03pcWma1I4-yjtHrHyHmSvLl4akS0I-drR0-W58_A4j7JMGz1Xm0usrrLYWQ.webp",
+        "image_url":"/images/케이크.png",
         "date":"2023"
     },
     {
         "name":"나비",
         "types":["접사🌷"],
-        "image_url":"https://image.kr.canon/pds/editor/images/000019/20161114163703522_LO1LUXC1.png",
+        "image_url":"/images/나비.png",
         "date":"2024"
     },
     {
         "name":"제주도",
         "types":["풍경⛰️"],
-        "image_url":"https://digitalchosun.dizzo.com/site/data/img_dir/2019/12/11/2019121180050_0.jpg",
+        "image_url":"/images/제주도.jpg",
         "date":"2025"
     },
     {
         "name":"축구",
         "types":["스포츠⚽️"],
-        "image_url":"https://i.namu.wiki/i/hBDLtpaGIQON5ybKZxVtmd5G57UgL6DaSGMZeG2dpbkk-zVDs5RvcpLw3BzXga9TPCHK6u-JNla30r_gH2LntznpMfMonbGnlRXozNiF9STPGLkacS6oheslk3Js2NMrnBe_ngb538QxlI_tZF8bEA.webp",
+        "image_url":"/images/축구.png",
         "date":"2021"
     }
 ]
