@@ -39,7 +39,7 @@ initial_photo =[
     {
         "name":"제주도",
         "types":["풍경⛰️"],
-        "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45n-koxI6aeoPOFXk7Zv-xxRUH63g3cQy5w&s",
+        "image_url":"https://digitalchosun.dizzo.com/site/data/img_dir/2019/12/11/2019121180050_0.jpg",
         "date":"2025"
     },
     {
