@@ -20,25 +20,25 @@ initial_photo =[
     {
         "name":"케이크",
         "types":["음식🍰"],
-        "image_url":"/images/케이크.png",
+        "image_url":"https://i.namu.wiki/i/vj8Dr4V8TXnEdhm004XIVI43a36zgMpny_CoZNo7dM80EsY0DNV5jB1HlJXj7OV4wA2V4mldJGluJsHHD2uSmrs9qEDg2UtzLk9ODiSco11A0eYs8DnbdhNiXphgM2yOzDyzYQRvB2HjyuMcsNXJGA.webp",
         "date":"2023"
     },
     {
         "name":"나비",
         "types":["접사🌷"],
-        "image_url":"/images/나비.png",
+        "image_url":"https://i.namu.wiki/i/CJMe7fnj4jdjaKF0zgeaLka3xO-jryTPl05WttImvGmDip47KBYRBi_O8hoj0M6xuPtskKs5F7kbc1uhYhs1UmCl4ROCRjyxYfKfODTQMUOvw8VpNv6ySlOhBo_p3n8QImVRgDvO9U1SOCrXwp_tAw.webp",
         "date":"2024"
     },
     {
         "name":"제주도",
         "types":["풍경⛰️"],
-        "image_url":"/images/제주도.jpg",
+        "image_url":"https://i.namu.wiki/i/-0JT8Q9ta2xhOIZdDhchSQH0PEG3IEZbVRxsaDniEKjb-yww5EPJ8xrrV738jD0_5L1Wzooxan2C1TegJkh8XuISvF2ifUCFK-DeTzRYSSoTGm9xhmPpnRsvVfpA1z-qtIRXslYXrC-oFjHWBI2D6Q.jpg",
         "date":"2025"
     },
     {
         "name":"축구",
         "types":["스포츠⚽️"],
-        "image_url":"/images/축구.png",
+        "image_url":"https://i.namu.wiki/i/hBDLtpaGIQON5ybKZxVtmd5G57UgL6DaSGMZeG2dpbkk-zVDs5RvcpLw3BzXga9TPCHK6u-JNla30r_gH2LntznpMfMonbGnlRXozNiF9STPGLkacS6oheslk3Js2NMrnBe_ngb538QxlI_tZF8bEA.webp",
         "date":"2021"
     }
 ]
